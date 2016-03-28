@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-material-ease",
+  "authors": [
+    "Rohit Hazra <rohithzr@live.com>"
+  ],
+  "description": "easy to install fork of http://fezvrasta.github.io/bootstrap-material-design/",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "material",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "http://fezvrasta.github.io/bootstrap-material-design/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
