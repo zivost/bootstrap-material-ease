@@ -1,4 +1,4 @@
-<h1>Bootstrap-Material-Design</h1>
+<h1>Bootstrap-Material-Ease</h1>
 
 <tt>This repo is a Fork of `https://github.com/FezVrasta/bootstrap-material-design` repository for easier installation and usage. </tt>
 
