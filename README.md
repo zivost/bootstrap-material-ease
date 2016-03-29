@@ -12,7 +12,7 @@
 <li>JQuery</li>
 </ol>
 <p>
-You may install this theme using NPM, Bower or Meteor:
+You may install this theme using Bower or Manual:
 </p>
 <blockquote>
 Bower : `bower install bootstrap-material-design` <br/>
