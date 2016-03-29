@@ -1,9 +1,9 @@
 <h1>Bootstrap-Material-Design</h1>
 
-<code>THIS REPO IS AN EXCERPT FROM https://github.com/FezVrasta/bootstrap-material-design FOR EASY BOWER INSTALLATION. </code>
+<tt>This repo is a Fork of `https://github.com/FezVrasta/bootstrap-material-design` repository for easier installation and usage. </tt>
 
 <h2>What is this?</h2>
-<p>I was facing issues in installing the aformentioned bower package and hence I decided to extract the necessary files only i.e. <tt>dist</tt> folder.
+<p>I was facing issues in installing the `bootstrap-material` bower package and hence I decided to extract the necessary files and create a bower package for my own use and well you can use it too.
 
 <h2>How to use this?</h2>
 <h3>Prerequisites</h3>
