@@ -1,6 +1,6 @@
 <h1>Bootstrap-Material-Ease</h1>
 
-<tt>This repo is a Fork of `https://github.com/FezVrasta/bootstrap-material-design` repository for easier installation and usage. </tt>
+<b>This repo is a Fork of `https://github.com/FezVrasta/bootstrap-material-design` repository for easier installation and usage. </b>
 
 <h2>What is this?</h2>
 <p>I was facing issues in installing the `bootstrap-material` bower package and hence I decided to extract the necessary files and create a bower package for my own use and well you can use it too.
