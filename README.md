@@ -3,7 +3,7 @@
 <b>This repo is a Fork of `https://github.com/FezVrasta/bootstrap-material-design` repository for easier installation and usage. </b>
 
 <h2>What is this?</h2>
-<p>I was facing issues in installing the `bootstrap-material` bower package and hence I decided to extract the necessary files and create a bower package for my own use and well you can use it too.
+I was facing issues in installing the `bootstrap-material` bower package and hence I decided to extract the necessary files and create a bower package for my own use and well you can use it too.
 
 <h2>How to use this?</h2>
 <h3>Prerequisites</h3>
@@ -14,10 +14,10 @@
 <p>
 You may install this theme using Bower or Manual:
 </p>
-<blockquote>
-Bower : `bower install bootstrap-material-design` <br/>
+
+Bower : `bower install bootstrap-material-ease` <br/>
 Manual : Manually Download and Place dist folder appropriately<br/>
-</blockquote>
+
 
 <p>Use the below code to initialize the Material Theme</p>
 Add the necessary links to your `<head>` element for fonts and stylsheets:
